@@ -2,23 +2,25 @@
 #include <math.h>
 using namespace std;
 
+int hasil1,hasil2,hasil3;
+float hasil4;
 int tambah (int a, int b){
-  int hasil1 = a + b;
+  hasil1 = a + b;
   return hasil1;
 }
 
 int kurang (int c, int d){
-  int hasil2 = c - d;
+  hasil2 = c - d;
   return hasil2;
 }
 
 int kali (int e, int f){
-  int hasil3 = e * f;
+  hasil3 = e * f;
   return hasil3;
 }
 
 float bagi (int g, int h){
-  float hasil4 = g / h;
+  hasil4 = g / h;
   return hasil4;
 }
 
