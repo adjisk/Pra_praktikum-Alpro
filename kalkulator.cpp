@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -57,7 +58,7 @@ int main() {
     cout<<"Hasil = "<<bagi(g,h);
   }
   else{
-    cout<<"Pilihan Tidak tersedia";
+    cout<<"Pilihan Tidak Tersedia";
   }
   return 0;
 }
