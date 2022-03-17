@@ -2,6 +2,11 @@
 #include <math.h>
 using namespace std;
 
+//Nama Anggota : 
+//1. Maulana Yusuf Habibi 2100018200
+//2. Muhammad Hafizh Syabana 2100018208
+//3. Muhamad Adji Sihab Kusuma 2100018216
+
 int tambah (int a, int b){
   int hasil1 = a + b;
   return hasil1;
